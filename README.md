@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Data Projects</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>[Sales Data Analysis Dashboard Report](https://github.com/Adnanisme/Kinetix-Ventures-Sales-Data-Analysis-Dashboard-Report/blob/main/README.md)</b>
 
 <h2>:star: Certifications </h2>
 
