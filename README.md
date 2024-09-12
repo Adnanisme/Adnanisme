@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Jibrin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Aspiring Data Scientist</a></h1>
 
-<!--
-**Adnanisme/Adnanisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Projects</h2>
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>:star: Certifications </h2>
+
+- Google Data Analytics Professional Certificate
+- Foundation In IT
+- First Class Honours in Software Engineering
+- Python Programming For Everybody
+- Machine Learning
+<h2> 🤳 Connect with me</h2>
+
+<a href="https://www.linkedin.com/in/jibrin-tijjani-388b07250/" style="display: inline-flex; align-items: center;">
+    <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    LinkedIn
+</a>
+
+
