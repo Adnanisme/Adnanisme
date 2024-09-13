@@ -7,12 +7,14 @@
 - **[Excel - Sales Data Analysis Dashboard Report](https://github.com/Adnanisme/Kinetix-Ventures-Sales-Data-Analysis-Dashboard-Report/blob/main/README.md)**
 - **[Power BI - Olympics Dataset Analysis](https://github.com/Adnanisme/Olympics-PowerBI-Report/blob/main/README.md)**
 
-<h2>:star: Certifications </h2>
-- Google Data Analytics Professional Certificate
-- Foundation In IT
-- First Class Honours in Software Engineering
-- Python Programming For Everybody
-- Machine Learning
+## :star: Certifications
+
+- Google Data Analytics Professional Certificate  
+- Foundation in IT  
+- First Class Honours in Software Engineering  
+- Python Programming for Everybody  
+- Machine Learning  
+
 <h2> 🤳 Connect with me</h2>
 
 <a href="https://www.linkedin.com/in/jibrin-tijjani-388b07250/" style="display: inline-flex; align-items: center;">
