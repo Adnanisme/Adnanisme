@@ -21,7 +21,7 @@
     🔗 LinkedIn
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://archive.org/details/RESUME.docx" style="text-decoration: none;">
+<a href="https://lime-carmita-21.tiiny.site" style="text-decoration: none;">
     📄 CV
 </a>
 
