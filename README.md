@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Data Projects</h2>
 
-- <b>[SQL Analysis of SBA COVID-19 Relief](https://github.com/Adnanisme/SQL-Analysis-Trends-and-Impacts-of-SBA-s-PPP-Loans/blob/main/README.md)</b>
-- <b>[Insurance Claims Fraud Project](https://github.com/Adnanisme/Insurance-Claims-Fraud-Project)</b>
-- <b>[Sales Data Analysis Dashboard Report](https://github.com/Adnanisme/Kinetix-Ventures-Sales-Data-Analysis-Dashboard-Report/blob/main/README.md)</b>
-
+- <b>[-SQL - Analysis of SBA COVID-19 Relief](https://github.com/Adnanisme/SQL-Analysis-Trends-and-Impacts-of-SBA-s-PPP-Loans/blob/main/README.md)</b>
+- <b>[-Excel- Insurance Claims Fraud Project](https://github.com/Adnanisme/Insurance-Claims-Fraud-Project)</b>
+- <b>[-Excel- Sales Data Analysis Dashboard Report](https://github.com/Adnanisme/Kinetix-Ventures-Sales-Data-Analysis-Dashboard-Report/blob/main/README.md)</b>
+- <b>[-PowerBI- Olympics Dataset Analysis](https://github.com/Adnanisme/Olympics-PowerBI-Report/blob/main/README.md)</b>
 <h2>:star: Certifications </h2>
 
 - Google Data Analytics Professional Certificate
