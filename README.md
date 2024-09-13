@@ -15,11 +15,16 @@
 - Python Programming for Everybody  
 - Machine Learning  
 
-<h2> 🤳 Connect with me</h2>
+<h2>🤳 Connect with me</h2>
 
-<a href="https://www.linkedin.com/in/jibrin-tijjani-388b07250/" style="display: inline-flex; align-items: center;">
-    <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    LinkedIn
+<a href="https://www.linkedin.com/in/jibrin-tijjani-388b07250/" style="text-decoration: none;">
+    🔗 LinkedIn
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://archive.org/details/RESUME.docx" style="text-decoration: none;">
+    📄 CV
+</a>
+
+
 
 
