@@ -1,4 +1,5 @@
-<h1>Hi, I'm Jibrin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Aspiring Data Scientist</a></h1>
+<h1>Hi, I'm Jibrin!</h1>
+<h1><a>Programmer</a>, <a>Data Analyst</a>, <a>Aspiring Data Scientist</a></h1>
 
 <h2>👨‍💻 Data Projects</h2>
 
