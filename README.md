@@ -4,7 +4,7 @@
 <h2>👨‍💻 Data Projects</h2>
 
 - **[SQL - Analysis of SBA COVID-19 Relief](https://github.com/Adnanisme/SQL-Analysis-Trends-and-Impacts-of-SBA-s-PPP-Loans/blob/main/README.md)**
-- **[Python - Comprehensive Movie Dataset Analysis](https://github.com/Adnanisme/Python-Movies-Project/blob/main/Python_Movies_Project.ipynb)**
+- **[Python - Comprehensive Movie Dataset Analysis](https://github.com/Adnanisme/Python-Movies-Project/blob/main/vertopal.com_Python_Movies_Project.pdf)**
 - **[Excel - Insurance Claims Fraud Project](https://github.com/Adnanisme/Insurance-Claims-Fraud-Project)**
 - **[Power BI - Olympics Dataset Analysis](https://github.com/Adnanisme/Olympics-PowerBI-Report/blob/main/README.md)**
 - **[Excel - Sales Data Analysis Dashboard Report](https://github.com/Adnanisme/Kinetix-Ventures-Sales-Data-Analysis-Dashboard-Report/blob/main/README.md)**
