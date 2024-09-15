@@ -23,7 +23,7 @@
     🔗 LinkedIn
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://lime-carmita-21.tiiny.site" style="text-decoration: none;">
+<a href="https://azure-sandy-84.tiiny.site/" style="text-decoration: none;">
     📄 CV
 </a>
 
