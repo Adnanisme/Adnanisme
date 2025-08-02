@@ -71,17 +71,9 @@ I've built and led projects ranging from government dashboards and educational p
 
 ---
 
-## 📝 Recent Writing
-📖 *Data-Driven Decisions: How Numbers Are Quietly Running Your Life*  
-[Medium Article →](#)
-
----
-
 ## 📬 Connect with Me
 - 🔗 [LinkedIn](#)
 - 🌐 [Portfolio Website](#)
 - 📄 [Download CV (PDF)](#)
 
----
 
-> 💡 *“The best way to predict the future is to build it.”*  
