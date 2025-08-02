@@ -1,32 +1,87 @@
-<h1>Hi, I'm Jibrin!</h1>
-<h1><a>Programmer</a>, <a>Data Analyst</a>, <a>Aspiring Data Scientist</a></h1>
+# 👋 Hi, I'm Jibrin Tijjani Isiaka
 
-<h2>👨‍💻 Data Projects</h2>
+💻 Full-Stack Software Engineer | 📊 Data Analyst | 🤖 Aspiring Machine Learning Engineer  
+Building clean, scalable software and extracting insight from data — one project at a time.
 
-- **[SQL - Analysis of SBA COVID-19 Relief](https://github.com/Adnanisme/SQL-Analysis-Trends-and-Impacts-of-SBA-s-PPP-Loans/blob/main/README.md)**
-- **[Python - Comprehensive Movie Dataset Analysis](https://github.com/Adnanisme/Python-Movies-Project/blob/main/vertopal.com_Python_Movies_Project.pdf)**
-- **[Excel - Insurance Claims Fraud Project](https://github.com/Adnanisme/Insurance-Claims-Fraud-Project)**
-- **[Power BI - Olympics Dataset Analysis](https://github.com/Adnanisme/Olympics-PowerBI-Report/blob/main/README.md)**
-- **[Excel - Sales Data Analysis Dashboard Report](https://github.com/Adnanisme/Kinetix-Ventures-Sales-Data-Analysis-Dashboard-Report/blob/main/README.md)**
+---
 
-## :star: Certifications
+## 🚀 About Me
 
-- Google Data Analytics Professional Certificate  
-- Foundation in IT  
-- First Class Honours in Software Engineering  
-- Python Programming for Everybody  
-- Machine Learning  
+I'm a multidisciplinary tech enthusiast passionate about building real-world systems and solving business problems with code and data. With a First Class BSc in Software Engineering and certifications from Meta, Google, Stanford, and the University of Michigan, I bridge the worlds of software development and data science seamlessly.
 
-<h2>🤳 Connect with me</h2>
+My experience spans government dashboards, educational platforms, internal enterprise systems, and analytics-driven decision-making. I’ve led development for live projects, contributed to national-scale tools, and published data-driven content.
 
-<a href="https://www.linkedin.com/in/jibrin-tijjani-388b07250/" style="text-decoration: none;">
-    🔗 LinkedIn
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://copper-emalee-4.tiiny.site/" style="text-decoration: none;">
-    📄 CV
-</a>
+---
 
+## 🛠️ Tech Stack
 
+**Languages:**  
+`PHP` `JavaScript` `Python` `SQL`
 
+**Frameworks & Libraries:**  
+`Laravel` `React` `Django` `Tailwind CSS` `Alpine.js` `Blade` `Chart.js` `Plotly` `Pandas` `Seaborn`
 
+**Databases & APIs:**  
+`MySQL` `SQLite` `Airtable API` `Cloudinary` `Resend`
+
+**Data & Visualization Tools:**  
+`Power BI` `Tableau` `Excel` `Python (pandas, matplotlib, seaborn)`
+
+**Other Tools:**  
+`Git` `GitHub` `Vite` `Composer` `OAuth2` `SendGrid`
+
+---
+
+## 🧠 Certifications
+
+- 🏅 [Google Data Analytics Professional Certificate](#)
+- 🧱 Meta Front-End Developer (React, UX/UI, JS)
+- 🔧 Meta Back-End Developer (Django, APIs, Python)
+- 🧩 Software Design & Architecture – University of Alberta
+- 📊 Applied Data Science with Python – University of Michigan
+- 🧠 Machine Learning – Stanford Online
+- 🐍 Python for Everybody – University of Michigan
+
+---
+
+## 📈 Featured Projects
+
+### ✅ Shamzak Poultry Tracker Pro
+> Full offline farm management system built with Laravel + SQLite  
+> Role-based access, auto backups, KPI dashboard — portable & installation-free  
+🔗 [View Overview](#)
+
+### ✅ PTDF Dashboard System  
+> Internal enterprise dashboard for Nigeria’s Petroleum Technology Development Fund  
+> Built from scratch using Laravel, Tailwind, MySQL, and Microsoft OAuth  
+🔗 [View Overview](#)
+
+### ✅ KarSource Global  
+> Vehicle marketplace platform with listing, comparison, and admin management  
+> Airtable + Cloudinary + Laravel backend with mobile-optimized UI  
+🔗 [View Overview](#)
+
+### 📊 Data Projects  
+- **SQL** – PPP COVID-19 Relief Loan Insights  
+- **Excel** – Insurance Claims Fraud Detection  
+- **Python** – Comprehensive Movie Industry Data Analysis  
+- **Power BI** – Olympic Medals and Country Performance  
+- **Excel** – Interactive Sales Dashboard  
+🔗 [Data Portfolio](#)
+
+---
+
+## 📝 Recent Writing
+📖 *Data-Driven Decisions: How Numbers Are Quietly Running Your Life*  
+[Medium Article →](#)
+
+---
+
+## 📬 Connect with Me
+- 🔗 [LinkedIn](#)
+- 🌐 [Portfolio Website](#)
+- 📄 [Download CV (PDF)](#)
+
+---
+
+> 💡 *“The best way to predict the future is to build it.”*  
