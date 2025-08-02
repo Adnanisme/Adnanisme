@@ -7,9 +7,9 @@ Building clean, scalable software and extracting insight from data — one proje
 
 ## 🚀 About Me
 
-I'm a multidisciplinary tech enthusiast passionate about building real-world systems and solving business problems with code and data. With a First Class BSc in Software Engineering and certifications from Meta, Google, Stanford, and the University of Michigan, I bridge the worlds of software development and data science seamlessly.
+I'm a curious and hands-on tech enthusiast who enjoys building real-world systems and using data to solve business problems. With a First Class degree in Software Engineering and certifications from Meta, Google, Stanford, and the University of Michigan, I work comfortably at the intersection of software development and data science.
 
-My experience spans government dashboards, educational platforms, internal enterprise systems, and analytics-driven decision-making. I’ve led development for live projects, contributed to national-scale tools, and published data-driven content.
+I've built and led projects ranging from government dashboards and educational platforms to internal enterprise tools and data-driven decision systems. Whether I’m coding backend systems, analyzing datasets, or simplifying workflows, I focus on delivering practical, high-impact solutions that make a difference.
 
 ---
 
@@ -34,7 +34,7 @@ My experience spans government dashboards, educational platforms, internal enter
 
 ## 🧠 Certifications
 
-- 🏅 [Google Data Analytics Professional Certificate](#)
+- 🏅 Google Data Analytics Professional Certificate
 - 🧱 Meta Front-End Developer (React, UX/UI, JS)
 - 🔧 Meta Back-End Developer (Django, APIs, Python)
 - 🧩 Software Design & Architecture – University of Alberta
