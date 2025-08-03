@@ -49,31 +49,44 @@ I've built and led projects ranging from government dashboards and educational p
 ### ✅ Shamzak Poultry Tracker Pro
 > Full offline farm management system built with Laravel + SQLite  
 > Role-based access, auto backups, KPI dashboard — portable & installation-free  
-🔗 [View Overview](#)
+🔗 [View Overview](https://github.com/Adnanisme/poultry-management-system/blob/main/README.md)
 
 ### ✅ PTDF Dashboard System  
 > Internal enterprise dashboard for Nigeria’s Petroleum Technology Development Fund  
 > Built from scratch using Laravel, Tailwind, MySQL, and Microsoft OAuth  
-🔗 [View Overview](#)
+🔗 [View Overview](https://github.com/Adnanisme/project-management-system/blob/main/readme.md)
 
 ### ✅ KarSource Global  
 > Vehicle marketplace platform with listing, comparison, and admin management  
 > Airtable + Cloudinary + Laravel backend with mobile-optimized UI  
-🔗 [View Overview](#)
+🔗 [View Overview](https://github.com/Adnanisme/car-marketplace-platform/blob/main/readme.md)
 
-### 📊 Data Projects  
-- **SQL** – PPP COVID-19 Relief Loan Insights  
-- **Excel** – Insurance Claims Fraud Detection  
-- **Python** – Comprehensive Movie Industry Data Analysis  
-- **Power BI** – Olympic Medals and Country Performance  
-- **Excel** – Interactive Sales Dashboard  
-🔗 [Data Portfolio](#)
+---
+
+## 📊 Data Projects
+
+- **SQL** – **PPP COVID-19 Relief Loan Insights**  
+  Analyzed over 10 million loan records to identify trends, distribution disparities, and outlier activities. Provided insight into small business support effectiveness and potential fraud risk.  
+  🔗 [View Overview](https://github.com/Adnanisme/SQL-Analysis-Trends-and-Impacts-of-SBA-s-PPP-Loans/blob/main/README.md)
+
+- **Excel** – **Insurance Claims Fraud Detection**  
+  Built a rule-based logic model in Excel using pivot tables, conditional formatting, and dynamic filters to help flag suspicious claims for further audit.  
+  🔗 [View Overview](https://github.com/Adnanisme/Insurance-Claims-Fraud-Project/blob/main/README.md)
+
+- **Python** – **Comprehensive Movie Industry Data Analysis**  
+  Used Python libraries (pandas, seaborn, matplotlib) to analyze trends in box office earnings, genre popularity, and director/actor performance across decades.  
+  🔗 [View Overview](https://github.com/Adnanisme/Python-Movies-Project/blob/main/python_project.pdf)
+
+- **Power BI** – **Olympic Medals and Country Performance**  
+  Developed a Power BI dashboard comparing countries' Olympic success, population, and GDP. Included slicers and tooltip filters for interactive exploration.  
+  🔗 [View Overview](https://github.com/Adnanisme/Olympics-PowerBI-Report/blob/main/README.md)
 
 ---
 
 ## 📬 Connect with Me
-- 🔗 [LinkedIn](#)
-- 🌐 [Portfolio Website](#)
-- 📄 [Download CV (PDF)](#)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jibrin-tijjani/)
+- 🌐 [Portfolio Website](https://adnanisme.com/)
+- 📄 [Download CV (PDF)](https://github.com/user-attachments/files/21563310/Curriculum.Vitae.pdf)
+
 
 
