@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jibrin Tijjani Isiaka
 
-💻 Full-Stack Software Engineer | 📊 Data Analyst | 🤖 Aspiring Machine Learning Engineer  
+💻 Full-Stack Software Engineer | 📊 Data Analyst 
 Building clean, scalable software and extracting insight from data one project at a time.
 
 ---
