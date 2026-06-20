@@ -5,7 +5,7 @@ Co-Founder & Technical Lead @ Bleu Meridian Technologies · First-Class Software
 
 I build real, shipped products end to end — and the data behind them.
 
-🌐 [Portfolio](https://adnanisme.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/jibrin-tijjani/) · ✉️ jibrintijjani6@gmail.com
+🌐 [Portfolio](https://jibrin-portfolio.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/jibrin-tijjani/) · ✉️ jibrintijjani6@gmail.com
 
 ---
 
