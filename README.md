@@ -11,7 +11,7 @@ I build real, shipped products end to end — and the data behind them.
 
 ### Selected Work
 - **RIJU Music** — full-stack music publishing & royalty SaaS for a UK publisher. Zero-API SPA, multi-currency royalties, Stripe KYC, dual gateways. `Laravel 12` `React/TS` `Inertia` `Stripe` `Paystack` · [repo](https://github.com/Adnanisme/RIJU-PUBLIC)
-- **MUAB Farms** — owned e-commerce + POS + inventory + accounting platform. Oversell-proof stock ledger, centralized pricing engine. `Laravel 11` `Livewire` `Paystack` `Docker`
+- **MUAB Farms** — owned e-commerce + POS + inventory + accounting platform. Oversell-proof stock ledger, centralized pricing engine. `Laravel 11` `Livewire` `Paystack` `Docker` · [repo](https://github.com/Adnanisme/MUABFARMS-PUBLIC)
 - **NPTR** — government document repository for PTDF; 5-role RBAC, tiered approval workflows. `React 19` `Laravel 12` · [repo](https://github.com/Adnanisme/National-petroleum-technology-repository)
 - **PTDF Tracker** — enterprise KPI dashboard across 11 departments; Microsoft SSO, 6-tier permissions. `Laravel` `Chart.js` · [repo](https://github.com/Adnanisme/project-management-system)
 - **Poultry Tracker Pro** — offline-first Windows app (.exe) digitising a 20,000-bird farm. `NativePHP/Electron` `Laravel` `SQLite` · [repo](https://github.com/Adnanisme/poultry-management-system)
